@@ -1,3 +1,1 @@
-## Welcome to the React components
-
-## these are 
+# Getting Started with Create React App
